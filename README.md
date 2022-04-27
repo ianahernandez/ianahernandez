@@ -63,7 +63,7 @@ Find me as:
 
 <p align="left">
 <a href="https://twitter.com/ianahernandez" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174876.svg?token=exp=1620495043~hmac=a2b03a8ceb723f6b8a62dff8d363e17a" alt="Twitter Account" height="25"</a>
-<a href="https://behance.net/ianahernandez" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174837.svg?token=exp=1620495046~hmac=642888a5a66090dcfe61699ee9b13086" alt="Behance Account" height="30" /></a>
+<a href="https://behance.net/ianahernandez" target="blank"><img align="center" src="https://res.cloudinary.com/ianahernandez/image/upload/v1651070628/3991886_e60cf9d4f2.png" alt="Behance Account" height="30" /></a>
 <a href="https://linkedin.com/in/ianahernandez/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111499.svg?token=exp=1620495037~hmac=ac81895ff2ae3590615ca6ba5c4a4806" alt="Linkedin Account" height="25"/></a>
 </p>
 
