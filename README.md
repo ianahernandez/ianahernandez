@@ -14,9 +14,7 @@ Hi everyone!👋🏽 I'm Ana. Computer Engineer, Web Developer Fullstack and new
 
 Awesome companies:
 
-- Mediastream :video_game:
-- Suimap Inc 💙🇺🇸
-
+- Mediastream
 
 ## My stack
 
