@@ -62,9 +62,9 @@ I love avocado and coding. So, sometimes I draw with CSS and in this project I m
 Find me as:
 
 <p align="left">
-<a href="https://twitter.com/ianahernandez" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174876.svg?token=exp=1620495043~hmac=a2b03a8ceb723f6b8a62dff8d363e17a" alt="Twitter Account" height="25"</a>
+<a href="https://twitter.com/ianahernandez" target="blank"><img align="center" src="https://res.cloudinary.com/ianahernandez/image/upload/v1651070694/3256013_8dccb2f9ba.png" alt="Twitter Account" height="25"</a>
 <a href="https://behance.net/ianahernandez" target="blank"><img align="center" src="https://res.cloudinary.com/ianahernandez/image/upload/v1651070628/3991886_e60cf9d4f2.png" alt="Behance Account" height="30" /></a>
-<a href="https://linkedin.com/in/ianahernandez/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111499.svg?token=exp=1620495037~hmac=ac81895ff2ae3590615ca6ba5c4a4806" alt="Linkedin Account" height="25"/></a>
+<a href="https://linkedin.com/in/ianahernandez/" target="blank"><img align="center" src="https://res.cloudinary.com/ianahernandez/image/upload/v1651070669/3536505_6dc32bd7ca.png" alt="Linkedin Account" height="25"/></a>
 </p>
 
 
