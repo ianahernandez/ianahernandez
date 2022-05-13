@@ -24,12 +24,12 @@ Awesome companies:
 
 **UI/UX:** Adobe XD, Figma
 
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ianahernandez&show_icons=true&count_private=true&theme=tokyonight&title_color=f2f2f2&icon_color=ecd748&text_color=b9a0da&langs_count=6)
+![Ana's GitHub stats](https://github-readme-stats-ten-ebon.vercel.app/api/top-langs?username=ianahernandez&show_icons=true&count_private=true&theme=tokyonight&title_color=f2f2f2&icon_color=ecd748&text_color=b9a0da&langs_count=6)
 
 
 ## My stats
 
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianahernandez&show_icons=true&count_private=true&theme=tokyonight&title_color=f2f2f2&icon_color=ecd748&text_color=b9a0da)
+![Ana's GitHub stats](https://github-readme-stats-ten-ebon.vercel.app/api?username=ianahernandez&show_icons=true&count_private=true&theme=tokyonight&title_color=f2f2f2&icon_color=ecd748&text_color=b9a0da)
 
 ## Portfolio
 View my portfolio, I share my lasts projects, blog posts and more.
@@ -38,7 +38,7 @@ View my portfolio, I share my lasts projects, blog posts and more.
 :bulb: If you want view source, or use this vue template, fork this repo :point_down:
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ianahernandez&repo=portfolio&show_owner=true&show_icons=true&theme=tokyonight&title_color=f2f2f2&icon_color=ecd748&text_color=b9a0da)](https://github.com/ianahernandez/portfolio)
+[![Readme Card](https://github-readme-stats-ten-ebon.vercel.app/api/pin/?username=ianahernandez&repo=portfolio&show_owner=true&show_icons=true&theme=tokyonight&title_color=f2f2f2&icon_color=ecd748&text_color=b9a0da)](https://github.com/ianahernandez/portfolio)
 
   
 ## Fun fact
