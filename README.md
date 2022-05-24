@@ -20,7 +20,7 @@ Hi everyone!👋🏽 I'm Ana. Computer Engineer, Fullstack Web Developer (MERN) 
 
 **Backend:** Node - Express/Koa, Python.
 
-**Data:** MongoDB, Postgress, MySql, BigQuery.
+**Data:** MongoDB, Postgresql, MySql, BigQuery.
 
 **UI/UX:** Adobe XD, Figma.
 
