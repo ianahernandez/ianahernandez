@@ -8,21 +8,21 @@
 
 # Ana Hernández | Web developer
 
-Hi everyone!👋🏽 I'm Ana. Computer Engineer, Web Developer Fullstack and newbie UI/UX designer 👩🏻‍💻. I like to learn new things everytime and share it in community.  
+Hi everyone!👋🏽 I'm Ana. Computer Engineer, Fullstack Web Developer (MERN) and newbie UI/UX designer 👩🏻‍💻. I like to learn new things everytime and share it in community.  
   
-## Currently working at
+## Currently working at an awesome company
 
-Awesome companies:
-
-- Mediastream
+- **Mediastream** 💚🚀
 
 ## My stack
 
-**Frontend:** HTML, CSS, Javascript, Vue, TailwindCSS.
+**Frontend:** HTML, CSS, Javascript, Vue, React, TailwindCSS.
 
-**Backend:** Node, Express, Python.
+**Backend:** Node - Express/Koa, Python.
 
-**UI/UX:** Adobe XD, Figma
+**Data:** MongoDB, Postgress, MySql, BigQuery.
+
+**UI/UX:** Adobe XD, Figma.
 
 ![Ana's GitHub stats](https://github-readme-stats-ten-ebon.vercel.app/api/top-langs?username=ianahernandez&show_icons=true&count_private=true&theme=tokyonight&title_color=f2f2f2&icon_color=ecd748&text_color=b9a0da&langs_count=6)
 
