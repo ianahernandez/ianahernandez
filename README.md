@@ -35,10 +35,10 @@ Hi everyone!👋🏽 I'm Ana. Computer Engineer, Fullstack Web Developer (MERN) 
 View my portfolio, I share my lasts projects, blog posts and more.
 :point_right: - [Go to portfolio](https://ianahernandez.tech)
 
-:bulb: If you want view source, or use this vue template, fork this repo :point_down:
+:bulb: If you want view source, or use this next template, fork this repo :point_down:
 
 
-[![Readme Card](https://github-readme-stats-ten-ebon.vercel.app/api/pin/?username=ianahernandez&repo=portfolio&show_owner=true&show_icons=true&theme=tokyonight&title_color=f2f2f2&icon_color=ecd748&text_color=b9a0da)](https://github.com/ianahernandez/portfolio)
+[![Readme Card](https://github-readme-stats-ten-ebon.vercel.app/api/pin/?username=ianahernandez&repo=portfolio&show_owner=true&show_icons=true&theme=tokyonight&title_color=f2f2f2&icon_color=ecd748&text_color=b9a0da)](https://github.com/ianahernandez/portfolio-next)
 
   
 ## Fun fact
