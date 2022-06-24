@@ -1,8 +1,8 @@
-<p align="center" class="circle">
-<img class="circle" src="https://res.cloudinary.com/ianahernandez/image/upload/v1620496995/Intersect_788fb974fd.png?1767584.924999999">
+<p align="left" class="circle">
+<img width="80" class="circle" src="https://res.cloudinary.com/ianahernandez/image/upload/v1620496995/Intersect_788fb974fd.png?1767584.924999999">
 </p>
 
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/ianahernandez"><img src="https://img.shields.io/twitter/follow/ianahernandez?label=Follow&style=social"></a>
 </p></br>
 
