@@ -38,7 +38,7 @@ View my portfolio, I share my lasts projects, blog posts and more.
 :bulb: If you want view source, or use this next template, fork this repo :point_down:
 
 
-[![Readme Card](https://github-readme-stats-ten-ebon.vercel.app/api/pin/?username=ianahernandez&repo=portfolio-next&show_owner=true&show_icons=true&theme=tokyonight&title_color=f2f2f2&icon_color=ecd748&text_color=b9a0da)](https://github.com/ianahernandez/portfolio-next)
+[![Readme Card](https://github-readme-stats-ten-ebon.vercel.app/api/pin/?username=ianahernandez&repo=portfolio&show_owner=true&show_icons=true&theme=tokyonight&title_color=f2f2f2&icon_color=ecd748&text_color=b9a0da)](https://github.com/ianahernandez/portfolio)
 
   
 ## Fun fact
